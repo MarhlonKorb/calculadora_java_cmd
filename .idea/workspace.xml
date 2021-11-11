@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="first try on Intellij">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora_java_cmd/bin/calculadora_cmd/calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora_java_cmd/src/calculadora_cmd/calculadora.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="calculadora refatorada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635520216978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="calculadora refatorada">
+      <created>1636667193547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636667193547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +79,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="91" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -85,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try on Intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="first try on Intellij" />
+    <MESSAGE value="calculadora refatorada" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculadora refatorada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
