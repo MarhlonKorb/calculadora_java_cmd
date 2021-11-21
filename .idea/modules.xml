@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/operadores.iml" filepath="$PROJECT_DIR$/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" filepath="$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" filepath="$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
     </modules>
   </component>
 </project>
