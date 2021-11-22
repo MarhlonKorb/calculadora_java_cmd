@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="calculadora refatorada">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios.iml" afterDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="ajuste da pasta">
+      <change afterPath="$PROJECT_DIR$/desafio_Conversao2/desafio_Conversao2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/painel_imput/desafio_Conversao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/painel_imput/painel_imput.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/operadores/com/company/calculadora_java_cmd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/operadores/com/company/calculadora_java_cmd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculadora_java_cmd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/calculadora_java_cmd.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +34,16 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="20BWan6ZtWg58DFePE6KmzzuvCW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +57,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -64,11 +66,11 @@
     </force-push-targets>
   </component>
   <component name="RunManager">
-    <configuration name="calculadora_java_cmd" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.company.calculadora_java_cmd" />
-      <module name="calculadora_cmd" />
+      <option name="MAIN_CLASS_NAME" value="DesafioWhile" />
+      <module name="DesafioWhile_" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -110,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636667627059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajuste da pasta">
+      <created>1637529412996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637529412996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajuste da pasta">
+      <created>1637529449688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637529449688</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try on Intellij" />
     <MESSAGE value="calculadora refatorada" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculadora refatorada" />
+    <MESSAGE value="ajuste da pasta" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajuste da pasta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -146,5 +163,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

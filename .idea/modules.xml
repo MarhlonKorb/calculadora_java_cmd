@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioWhile.iml" filepath="$PROJECT_DIR$/DesafioWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioWhile_/DesafioWhile_.iml" filepath="$PROJECT_DIR$/DesafioWhile_/DesafioWhile_.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" filepath="$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" />
       <module fileurl="file://$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" filepath="$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/painel_imput/desafio_Conversao.iml" filepath="$PROJECT_DIR$/painel_imput/desafio_Conversao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio_Conversao2/desafio_Conversao2.iml" filepath="$PROJECT_DIR$/desafio_Conversao2/desafio_Conversao2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/painel_imput/painel_imput.iml" filepath="$PROJECT_DIR$/painel_imput/painel_imput.iml" />
     </modules>
   </component>
 </project>
