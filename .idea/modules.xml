@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comida/Comida.iml" filepath="$PROJECT_DIR$/Comida/Comida.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioWhile_/DesafioWhile_.iml" filepath="$PROJECT_DIR$/DesafioWhile_/DesafioWhile_.iml" />
       <module fileurl="file://$PROJECT_DIR$/Produto/Produto.iml" filepath="$PROJECT_DIR$/Produto/Produto.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" filepath="$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" />
