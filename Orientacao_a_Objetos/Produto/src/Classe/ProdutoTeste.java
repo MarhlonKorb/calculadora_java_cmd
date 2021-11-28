@@ -1,7 +1,5 @@
 package Classe;
 
-import Classe.Produto;
-
 public class ProdutoTeste {
     public static void main(String[] args) {
         Produto.desconto = 0.29;
