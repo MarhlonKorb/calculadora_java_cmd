@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Fundamentos de Orientação a objetos.">
-      <change beforePath="$PROJECT_DIR$/Comida/Comida.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioWhile_/DesafioWhile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioWhile/DesafioWhile.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioWhile_/src/DesafioWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioWhile/src/DesafioWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio_Conversao2/desafio_Conversao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio_Conversao2/src/MediaSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafio_Conversao/src/MediaSalario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +59,26 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
     </force-push-targets>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Orientacao_a_Objetos" />
+      <recent name="C:\Users\marhl\IdeaProjects\exercicios_java" />
+      <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\DesafioWhile_\Orientacao_a_Objetos" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Jantar" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Notas" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Jantar" />
-      <module name="Jantar" />
+      <option name="MAIN_CLASS_NAME" value="Notas" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -157,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638133716220</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fundamentos de Orientação a objetos.">
+      <created>1638137148172</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638137148172</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
