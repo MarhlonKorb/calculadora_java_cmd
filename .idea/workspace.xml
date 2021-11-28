@@ -4,11 +4,6 @@
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Fundamentos de Orientação a objetos.">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Produto/src/Classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produto/src/Classe/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Produto/src/Classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produto/src/Classe/ProdutoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Produto/Classe/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Produto/Classe/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Produto/Classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Produto/Classe/ProdutoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Produto/Data/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Produto/Data/Data.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +63,11 @@
     </force-push-targets>
   </component>
   <component name="RunManager">
-    <configuration name="MeuPrimeiroTrauma" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Jantar" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MeuPrimeiroTrauma" />
-      <module name="Produto" />
+      <option name="MAIN_CLASS_NAME" value="Jantar" />
+      <module name="Jantar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -149,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637707125376</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fundamentos de Orientação a objetos.">
+      <created>1638043460179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638043460179</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
