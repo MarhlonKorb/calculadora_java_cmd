@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Fundamentos de Orientação a objetos.">
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="refatoração">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioWhile_/DesafioWhile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioWhile/DesafioWhile.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioWhile_/src/DesafioWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioWhile/src/DesafioWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio_Conversao2/desafio_Conversao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio_Conversao2/src/MediaSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafio_Conversao/src/MediaSalario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +70,11 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Notas" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="ConjuntoComportado" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Notas" />
-      <module name="Arrays" />
+      <option name="MAIN_CLASS_NAME" value="ConjuntoComportado" />
+      <module name="ConjuntoComportado" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -176,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638137148172</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fundamentos de Orientação a objetos.">
+      <created>1638142483815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638142483815</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refatoração">
+      <created>1638142511063</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638142511063</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +213,8 @@
     <MESSAGE value="ajuste da pasta" />
     <MESSAGE value="mais exercícios." />
     <MESSAGE value="Fundamentos de Orientação a objetos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fundamentos de Orientação a objetos." />
+    <MESSAGE value="refatoração" />
+    <option name="LAST_COMMIT_MESSAGE" value="refatoração" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
