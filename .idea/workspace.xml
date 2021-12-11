@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="refatoração">
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Collections">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -64,17 +64,23 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Usuario\src" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Orientacao_a_Objetos" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\DesafioWhile_\Orientacao_a_Objetos" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&quot;" />
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration name="ConjuntoComportado" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Hashcode" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ConjuntoComportado" />
-      <module name="ConjuntoComportado" />
+      <option name="MAIN_CLASS_NAME" value="Hash.Hashcode" />
+      <module name="Usuario" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -186,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638142511063</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Collections">
+      <created>1638834885350</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638834885350</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +227,8 @@
     <MESSAGE value="mais exercícios." />
     <MESSAGE value="Fundamentos de Orientação a objetos." />
     <MESSAGE value="refatoração" />
-    <option name="LAST_COMMIT_MESSAGE" value="refatoração" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

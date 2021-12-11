@@ -5,9 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConjuntoComportado/ConjuntoComportado.iml" filepath="$PROJECT_DIR$/ConjuntoComportado/ConjuntoComportado.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioWhile/DesafioWhile.iml" filepath="$PROJECT_DIR$/DesafioWhile/DesafioWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fila/Fila.iml" filepath="$PROJECT_DIR$/Fila/Fila.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientacao_a_Objetos/Jantar/Jantar.iml" filepath="$PROJECT_DIR$/Orientacao_a_Objetos/Jantar/Jantar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista/Lista.iml" filepath="$PROJECT_DIR$/Lista/Lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapa/Mapa.iml" filepath="$PROJECT_DIR$/Mapa/Mapa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientacao_a_Objetos/Produto/Produto.iml" filepath="$PROJECT_DIR$/Orientacao_a_Objetos/Produto/Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usuario/Usuario.iml" filepath="$PROJECT_DIR$/Usuario/Usuario.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" filepath="$PROJECT_DIR$/calculadora_cmd/calculadora_cmd.iml" />
       <module fileurl="file://$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" filepath="$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" filepath="$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" />
