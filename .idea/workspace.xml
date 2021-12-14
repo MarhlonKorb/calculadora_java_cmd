@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Orientação a objetos parte 2">
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio compras">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OO/src/Curso/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO/src/Curso/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OO/Curso/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OO/Curso/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/DesafioCompras/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO/src/DesafioCompras/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO/src/DesafioCompras/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO/src/DesafioCompras/Compra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639351663658</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Orientação a objetos parte 2">
+      <created>1639357582301</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1639357582301</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,7 +279,8 @@
     <MESSAGE value="refatoração" />
     <MESSAGE value="Collections" />
     <MESSAGE value="Orientação a objetos parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação a objetos parte 2" />
+    <MESSAGE value="Desafio compras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio compras" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -9,5 +9,10 @@ public class Cliente {
             this.nome = nome;
         }
 
+        ArrayList<Compra> listaCompra = new ArrayList<>();
 
+        void adicionaCompra(Compra compra){
+            this.listaCompra.add(compra);
+
+        }
 }
