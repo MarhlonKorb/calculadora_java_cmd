@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio compras">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OO/src/DesafioCompras/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO/src/DesafioCompras/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OO/src/DesafioCompras/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/OO/src/DesafioCompras/Compra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Herança/src/DeafioHeranca" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,6 +63,9 @@
     </force-push-targets>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marhl\OneDrive\Documentos\GitHub\exercicios_java\Herança\src\DeafioHeranca" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Usuario\src" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Orientacao_a_Objetos" />
@@ -77,11 +79,11 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ComprasTeste" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="TesteCarro" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-17.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DesafioCompras.ComprasTeste" />
-      <module name="OO" />
+      <option name="MAIN_CLASS_NAME" value="DesafioHeranca.TesteCarro" />
+      <module name="Herança" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
