@@ -1,21 +1,21 @@
 package DesafioHeranca;
 
 public class Carro {
-    final int VELOCIDADE_MAXIMA;
-    int velocidadeAtual;
+   public final int VELOCIDADE_MAXIMA;
+   protected int velocidadeAtual;
 
-   public Carro(int velocidadeMaxima){
+   protected Carro(int velocidadeMaxima){
         this.VELOCIDADE_MAXIMA = velocidadeMaxima;
     }
 
-    void acelerar() {
+   public void acelerar() {
         if (velocidadeAtual + 5 > VELOCIDADE_MAXIMA) {
             velocidadeAtual = VELOCIDADE_MAXIMA;
         }
         else {velocidadeAtual += 5;}
     }
 
-    void freiar() {
+    public void freiar() {
         if (velocidadeAtual >= 5) {
             velocidadeAtual -= 5;
         }
@@ -23,7 +23,7 @@ public class Carro {
             velocidadeAtual = 0;
         }
     }
-    public String toString(){
+    protected String dadosVelocidade(){
         return "Velocidade atual: "+velocidadeAtual+"KM/h";
     }
 }

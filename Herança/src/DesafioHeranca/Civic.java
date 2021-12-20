@@ -2,7 +2,7 @@ package DesafioHeranca;
 
 public class Civic extends Carro {
 
-    Civic(){
+   public Civic(){
         super(212);
     }
 }

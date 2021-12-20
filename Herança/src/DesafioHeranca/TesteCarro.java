@@ -16,6 +16,6 @@ public class TesteCarro {
         ferrari.freiar();
         ferrari.freiar();
         
-        System.out.println(ferrari.toString());
+        System.out.println(ferrari.dadosVelocidade());
     }
 }
