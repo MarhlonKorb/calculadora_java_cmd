@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio encapsulamento adicionado">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio Polimorfismo com Getters and Setters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/TesteCarro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -265,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639997107481</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Desafio Polimorfismo com Getters and Setters">
+      <created>1640048935194</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1640048935194</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +307,8 @@
     <MESSAGE value="Desafio compras" />
     <MESSAGE value="Desafio Herança adicionado" />
     <MESSAGE value="Desafio encapsulamento adicionado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio encapsulamento adicionado" />
+    <MESSAGE value="Desafio Polimorfismo com Getters and Setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio Polimorfismo com Getters and Setters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

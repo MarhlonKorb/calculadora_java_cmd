@@ -6,13 +6,13 @@ public class TesteCarro {
         Ferrari ferrari = new Ferrari();
         Civic civic = new Civic();
 
-        System.out.println(ferrari.velocidadeAtual);
+        System.out.println(ferrari.delta);
         ferrari.acelerar();
-        System.out.println(ferrari.velocidadeAtual);
+        System.out.println(ferrari.delta);
         ferrari.acelerar();
         ferrari.acelerar();
         ferrari.acelerar();
-        System.out.println(ferrari.velocidadeAtual);
+        System.out.println(ferrari.delta);
         ferrari.freiar();
         ferrari.freiar();
         
