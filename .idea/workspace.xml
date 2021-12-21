@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio Polimorfismo com Getters and Setters">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" afterDir="false" />
@@ -35,6 +36,9 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -293,7 +297,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try on Intellij" />
