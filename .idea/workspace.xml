@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Implementação Getters and Setters inserindo interface Luxo e metodos na classe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Herança/src/DesafioHeranca/Ferrari.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,6 +302,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try on Intellij" />
