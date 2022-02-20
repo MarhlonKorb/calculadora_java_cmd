@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="final do OO">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Foreach com lambdas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$USER_HOME$/.jdks" />
@@ -84,9 +83,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Lambda" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Predicado" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\marhl\.jdks\corretto-1.8.0_322\jre" />
-      <option name="MAIN_CLASS_NAME" value="Lambda" />
+      <option name="MAIN_CLASS_NAME" value="Predicado" />
       <module name="lambdas" />
       <extension name="coverage">
         <pattern>
@@ -290,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640647309935</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Foreach com lambdas">
+      <created>1645325590469</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1645325590469</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +331,8 @@
     <MESSAGE value="Desafio Polimorfismo com Getters and Setters" />
     <MESSAGE value="Implementação Getters and Setters inserindo interface Luxo e metodos na classe" />
     <MESSAGE value="final do OO" />
-    <option name="LAST_COMMIT_MESSAGE" value="final do OO" />
+    <MESSAGE value="Foreach com lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Foreach com lambdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
