@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Foreach com lambdas">
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -296,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645325590469</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo.">
+      <created>1645326734860</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1645326734860</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,7 +342,8 @@
     <MESSAGE value="Implementação Getters and Setters inserindo interface Luxo e metodos na classe" />
     <MESSAGE value="final do OO" />
     <MESSAGE value="Foreach com lambdas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Foreach com lambdas" />
+    <MESSAGE value="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" filepath="$PROJECT_DIR$/conversor_temperatura/conversor_temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" filepath="$PROJECT_DIR$/desafio_Conversao/desafio_Conversao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas/lambdas.iml" filepath="$PROJECT_DIR$/lambdas/lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/painel_imput/painel_imput.iml" filepath="$PROJECT_DIR$/painel_imput/painel_imput.iml" />
     </modules>
