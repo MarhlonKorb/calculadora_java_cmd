@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="exemplo de interface.">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -86,10 +85,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Predicado" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Map" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\marhl\.jdks\corretto-1.8.0_322\jre" />
-      <option name="MAIN_CLASS_NAME" value="Predicado" />
-      <module name="lambdas" />
+      <option name="MAIN_CLASS_NAME" value="Map" />
+      <module name="StreamS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -306,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645326734860</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="exemplo de interface.">
+      <created>1645404507080</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1645404507080</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +349,8 @@
     <MESSAGE value="final do OO" />
     <MESSAGE value="Foreach com lambdas" />
     <MESSAGE value="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface Predicate para verificação de valores que retorna um boolean. Pode ser utilizado para verificar valores em uma lista de itens por exemplo." />
+    <MESSAGE value="exemplo de interface." />
+    <option name="LAST_COMMIT_MESSAGE" value="exemplo de interface." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
