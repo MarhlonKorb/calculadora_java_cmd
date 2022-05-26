@@ -49,11 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/Marhlon/Documents/GitHub/exercicios_java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -77,10 +84,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Filter" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="BuilderEBuffer" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\marhl\.jdks\corretto-1.8.0_322\jre" />
-      <option name="MAIN_CLASS_NAME" value="Filter" />
-      <module name="StreamS" />
+      <option name="MAIN_CLASS_NAME" value="BuilderEBuffer" />
+      <module name="StringBuilderAplicacao" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -100,6 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635518528385</updated>
+      <workItem from="1653338158407" duration="616000" />
+      <workItem from="1653569152987" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="first try on Intellij">
       <created>1635520216978</created>
@@ -327,6 +336,9 @@
     </task>
     <option name="localTasksCounter" value="33" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
