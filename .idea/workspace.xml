@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StringBuilderAplicacao/src/BuilderEBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringBuilderAplicacao/src/BuilderEBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StringBuilderAplicacao/BuilderEBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StringBuilderAplicacao/BuilderEBuffer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
+    "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/Marhlon/Documents/GitHub/exercicios_java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -85,10 +86,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="BuilderEBuffer" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="CaixaObjetoTeste" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\marhl\.jdks\corretto-1.8.0_322\jre" />
-      <option name="MAIN_CLASS_NAME" value="BuilderEBuffer" />
-      <module name="StringBuilderAplicacao" />
+      <option name="MAIN_CLASS_NAME" value="CaixaObjetoTeste" />
+      <module name="Generics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_calculadora_cmd.*" />
@@ -109,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635518528385</updated>
       <workItem from="1653338158407" duration="616000" />
-      <workItem from="1653569152987" duration="4607000" />
+      <workItem from="1653569152987" duration="12341000" />
     </task>
     <task id="LOCAL-00001" summary="first try on Intellij">
       <created>1635520216978</created>
@@ -349,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653570489728</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação.">
+      <created>1653586653327</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1653586653327</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

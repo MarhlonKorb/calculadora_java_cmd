@@ -17,6 +17,5 @@ public class BuilderEBuffer {
         System.out.println(frase2);
 
         System.out.println(frase2.substring(25,28));
-
     }
 }
