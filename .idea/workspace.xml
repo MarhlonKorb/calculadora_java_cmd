@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Desafio Map realizado e introdução ao cenceito de Filter">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringBuilderAplicacao/src/BuilderEBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringBuilderAplicacao/src/BuilderEBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StringBuilderAplicacao/BuilderEBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StringBuilderAplicacao/BuilderEBuffer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635518528385</updated>
       <workItem from="1653338158407" duration="616000" />
-      <workItem from="1653569152987" duration="695000" />
+      <workItem from="1653569152987" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="first try on Intellij">
       <created>1635520216978</created>
@@ -334,7 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650591241948</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação.">
+      <created>1653570451548</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1653570451548</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação.">
+      <created>1653570489728</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1653570489728</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +392,9 @@
     <MESSAGE value="exemplo de interface." />
     <MESSAGE value="introdução ao uso do map e Streams" />
     <MESSAGE value="Desafio Map realizado e introdução ao cenceito de Filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio Map realizado e introdução ao cenceito de Filter" />
+    <MESSAGE value="Aplicação do conceito da classe StringBuilder e StringBuffer" />
+    <MESSAGE value="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
