@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Aplicação dos conceitos de generics e de como é possível implementar classes genéricas unindo conceitos Collections para criar listas que retornam dados homogênos de acordo com a instanciação de uma classe genérica.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9b8e1979-fbf2-41ad-b64e-49233fa6bf2b" name="Changes" comment="Conceitos de jdbc na prática, entendendo como importar um driver de banco de dados e como criar a conexão com o bnco através da api do banco. Reforcei conceitos de construção de queries para criar e consultar registros no banco de dados e retornar valores.&#10;Reforcei o entendimento sobre o metodo PreparedStatement da classe Connection da api java.sql, que reforça a proteção contra ataques de sql injection por parte de usuários mal intencionados, evitando concatenar variáveis dentro de uma declaração em metodo de string, mas sim encapsulando no metodo PreparedStatement.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/FabricaConexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/src/FabricaConexao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Marhlon/Documents/GitHub/exercicios_java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marhlon/Documents/GitHub/exercicios_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -78,6 +77,9 @@
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Usuario\src" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java\Orientacao_a_Objetos" />
       <recent name="C:\Users\marhl\IdeaProjects\exercicios_java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DAO" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -364,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653616417212</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Conceitos de jdbc na prática, entendendo como importar um driver de banco de dados e como criar a conexão com o bnco através da api do banco. Reforcei conceitos de construção de queries para criar e consultar registros no banco de dados e retornar valores.&#10;Reforcei o entendimento sobre o metodo PreparedStatement da classe Connection da api java.sql, que reforça a proteção contra ataques de sql injection por parte de usuários mal intencionados, evitando concatenar variáveis dentro de uma declaração em metodo de string, mas sim encapsulando no metodo PreparedStatement.">
+      <created>1654139200865</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1654139200865</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +419,8 @@
     <MESSAGE value="Aplicação do conceito da classe StringBuilder e StringBuffer" />
     <MESSAGE value="Aplicação do conceito da classe StringBuilder e StringBuffer. A diferença entre essas classes para uma classe String é que a classe String cria objetos a serem concatenados enquanto que as classes Builder e Buffer contém o método append(), que apenas concatena as strings sem criar objetos, melhorando o tempo e capacidade de processamento da aplicação." />
     <MESSAGE value="Aplicação dos conceitos de generics e de como é possível implementar classes genéricas unindo conceitos Collections para criar listas que retornam dados homogênos de acordo com a instanciação de uma classe genérica." />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicação dos conceitos de generics e de como é possível implementar classes genéricas unindo conceitos Collections para criar listas que retornam dados homogênos de acordo com a instanciação de uma classe genérica." />
+    <MESSAGE value="Conceitos de jdbc na prática, entendendo como importar um driver de banco de dados e como criar a conexão com o bnco através da api do banco. Reforcei conceitos de construção de queries para criar e consultar registros no banco de dados e retornar valores.&#10;Reforcei o entendimento sobre o metodo PreparedStatement da classe Connection da api java.sql, que reforça a proteção contra ataques de sql injection por parte de usuários mal intencionados, evitando concatenar variáveis dentro de uma declaração em metodo de string, mas sim encapsulando no metodo PreparedStatement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Conceitos de jdbc na prática, entendendo como importar um driver de banco de dados e como criar a conexão com o bnco através da api do banco. Reforcei conceitos de construção de queries para criar e consultar registros no banco de dados e retornar valores.&#10;Reforcei o entendimento sobre o metodo PreparedStatement da classe Connection da api java.sql, que reforça a proteção contra ataques de sql injection por parte de usuários mal intencionados, evitando concatenar variáveis dentro de uma declaração em metodo de string, mas sim encapsulando no metodo PreparedStatement." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
