@@ -1,6 +1,10 @@
 import java.util.HashSet;
 
 public class ConjuntoBaguncado {
+
+    /*a classe não garante a ordem constante dos elementos ao longo do tempo e não aceita valores duplicados
+    * permite o elemento nulo
+    * */
     public static void main(String[] args) {
         HashSet conjunto = new HashSet();
 

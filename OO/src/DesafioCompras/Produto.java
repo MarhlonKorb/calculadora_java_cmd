@@ -8,7 +8,6 @@ public class Produto {
     Item item;
 
     Produto(){
-
     }
 
     Produto(String nome, double preco,Item item){

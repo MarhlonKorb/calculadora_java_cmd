@@ -11,7 +11,6 @@ public class Compra {
         produto.Compra.add(this);
     }
 
-
     double gastoTotal(Produto produto ){
         for (Produto produtos : produtos
              ) {

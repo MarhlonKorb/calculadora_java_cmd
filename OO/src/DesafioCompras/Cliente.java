@@ -13,6 +13,5 @@ public class Cliente {
 
         void adicionaCompra(Compra compra){
             this.listaCompra.add(compra);
-
         }
 }
